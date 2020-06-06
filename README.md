@@ -8,7 +8,7 @@ All the codes are based on java.
 
 I am working on Andoird Studio 3.6.3 with Minimum SDK: API 21: Android 5.0 (Lollipop).
 
-##Installation
+## Installation
 
 METHOD 1 : Download as zip and open the zip with Android Studio.
 
