@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DICE</string>
+    <string name="button_name">ROLL ME</string>
+    <string name="banner">App banner</string>
+    <string name="Dice1">Dice 1</string>
+    <string name="Dice2">Dice 2</string>
+
+</resources>
